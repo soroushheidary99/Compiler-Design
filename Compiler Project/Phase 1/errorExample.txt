@@ -1,0 +1,7 @@
+public class Example {
+
+    @publiaAasc sss voasid main(String[] args) {
+        public=4
+        System.out.println("Hello hhhhhhhhhhhhhhhhhhhhhhhhhh!");
+    }
+}
